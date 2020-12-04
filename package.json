@@ -1,0 +1,20 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "api contacts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturoPerezSanchez/contacts-fis2020.git"
+  },
+  "homepage": "https://github.com/ArturoPerezSanchez/contacts-fis2020",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arturo Perez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
